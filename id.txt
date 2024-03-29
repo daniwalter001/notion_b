@@ -1,0 +1,95 @@
+pass model: name+email in lowercase
+
+#SOUSCRIPTION
+CMS La Grace Divine
+mail: cmsgrace@gmail.com
+Avenue Sylvanus Olympio
+Lomé
+
+nom: Stuff
+prenom: Stuff
+pass:1234567890
+Adakpamé Lomé
+Directeur
+mail: stuff2.stuff216@gmail.com
+
+
+-----------------
+
+CMS Marie La Bonté
+mail: mbt@outlook.fr
++228 93 22 34 32
+23, Avenue Tchokossi
+Lomé
+
+nom: Ali
+prenom: Jean
+pass:1234567890
+Tokoin Hopital
+Docteur
+mail: nywjtik@telegmail.com
+
+
+-----------------
+
+
+CMS LaVie
+mail: vie@outlook.fr
++228 93 22 34 32
+23, Avenue Samuel Bassa
+Tokoin - Lomé
+
+nom: KENI
+prenom: Amadou
+pass:1234567890
+Tokoin Hopital
+Docteur
+mail: daiki.aomine.0010@gmail.com
+
+
+-----------------
+
+
+CMS Marie La Bonté
+mail: mbt@outlook.fr
++228 93 22 34 32
+23, Avenue Tchokossi
+Lomé
+
+nom: Ali
+prenom: Jean
+pass:1234567890
+Tokoin Hopital
+Docteur
+mail: daiki.aomine.0010@gmail.com
+
+
+
+###############################################################################################################"
+
+#STAFFS
+
+1- Dr
+Nom: Medecin
+prenom: Alex
+email:daiki.aomine.0010@gmail.com
+pass: medecindaiki.aomine.0010@gmail.com
+
+1- Prof
+Nom: Zongo
+prenom: Clement
+email:aomine.dot.one@telegmail.com
+pass: zongoaomine.dot.one@telegmail.com
+
+
+
+
+#PATIENTS
+
+1- Nom: Jean
+Prenoms: Jacques
+email: daniwalter001@gmail.com
+pass: jeandaniwalter001@gmail.com
+
+2- Ali René shodaime@telegmail.com alishodaime@telegmail.com
+3- Elder Akakpo otygejg@telegmail.com elderotygejg@telegmail.com

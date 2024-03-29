@@ -1,0 +1,5 @@
+# install pg-native
+# npm install pg-native --save (https://github.com/sequelize/sequelize/issues/12864)
+#
+# before u need 
+# apt install libpq-dev (https://github.com/brianc/node-pg-native/issues/44)
